@@ -27,8 +27,6 @@ Below are some screenshots to showcase the design and layout of the documentatio
 4. ![Polymorphism](img4.png)
 5. ![Encapsulation](img5.png)
 
-> *(Place your screenshot images in a `screenshots/` folder and ensure they are named accordingly)*
-
 ---
 
 ## 💡 Features
